@@ -1,5 +1,5 @@
 # SpringCloudDemo
-如题
+**使用SpringBoot2.＊版本**
 # 模块说明
 - cloud-admin  监控中心
 - cloud-client 服务消费者（rest+ribbon）
